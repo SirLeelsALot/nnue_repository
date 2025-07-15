@@ -10,7 +10,7 @@ To contribute a pretrained model:
 1. **🍴 Fork this repository.**
 
 2. **📁 Add your model to the `models/` directory**, including:
-   - 📦 The model file  
+   - 📦 The model file (e.g., `models/1024_8_king_buckets_mrbob/model.bin`)
    - 📝 A short `README.md` describing:
      - 🧱 **Architecture** (e.g., `768→256→32→1`)
      - 📄 **File format**: At a minimum, describe your file format. Including code for reading the model and performing inference is highly encouraged.
