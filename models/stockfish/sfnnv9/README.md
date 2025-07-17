@@ -4,13 +4,13 @@
 
 Network size: 3072->16->32->1
 
-File format: big_net.txt
+File format: [file:/big_net](big_net.md)
 
 ## Small network architecture (`Stockfish::Eval::NNUE::NetworkSmall`)
 
 Network size: 128->16->32->1
 
-File format: small_net.txt
+File format: [file:/small_net](small_net.md)
 
 # Training data 
 - from [commit](https://github.com/official-stockfish/Stockfish/commit/0716b845fdef8a20102b07eaec074b8da8162523): https://robotmoon.com/nnue-training-data
