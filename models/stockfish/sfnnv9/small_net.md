@@ -9,7 +9,7 @@
 
 ## Feature transformer
 | Field name | Data type | Description | Size |
-| - | - | - | | - |
+| - | - | - | - |
 | hash | `uint32_t` | Hash of the whole feature transformer | 1 |
 | biases | `int16_t` | Biases | 128 |
 | weights | `int16_t` | Weights | 2883584 |
@@ -19,7 +19,7 @@
 
 ### Affine transform sparse input<InDims=128,OutDims=16>
 | Field name | Data type | Description | Size |
-| - | - | - | | - |
+| - | - | - | - |
 | hash | `uint32_t` | Hash of the whole unit | 1 |
 | biases | `int32_t` | Biases | 16 |
 | weights | `int16_t` | Weights | 2048 |
@@ -32,7 +32,7 @@ Nothing
 
 ### Affine transform<InDims=30,OutDims=32>
 | Field name | Data type | Description | Size |
-| - | - | - | | - |
+| - | - | - | - |
 | hash | `uint32_t` | Hash of the whole unit | 1 |
 | biases | `int32_t` | Biases | 32 |
 | weights | `int8_t` | Weights | 1024 |
@@ -43,7 +43,7 @@ Nothing
 ### Affine transform<InDims=32,OutDims=1>
 
 | Field name | Data type | Description | Size |
-| - | - | - | | - |
+| - | - | - | - |
 | hash | `uint32_t` | Hash of the whole unit | 1 |
 | biases | `int32_t` | Biases | 32 |
 | weights | `int8_t` | Weights | 32 |
