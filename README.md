@@ -2,6 +2,7 @@
 
 A repository for pre-trained **Efficiently Updatable Neural Networks (NNUE)** for chess engines and other games. ♟️  
 This is a great entry point for machine learning enthusiasts to contribute. We believe in a strong open-source community that fosters collaboration and innovation.
+I will start contributing in the coming month.
 
 ## 📤 Contributing
 
